@@ -1,2 +1,6 @@
 # Forecasting-crime
-Comparative analysis of machine learning models for crime rate prediction using preprocessing, clustering, visualization, and diverse algorithms.
+
+Our project focuses on predicting crime rates using diverse machine learning algorithms and comparing their efficacy.
+Following data preparation, we delve into comprehensive data visualization, unveiling insights into state-wise crime distributions over the past decade and the correlation between crime types and their occurrence rates. These visualizations offer valuable context for understanding underlying patterns and trends within the data.
+The crux of our project lies in applying various machine learning models for crime rate prediction, including Artificial Neural Networks (ANN), Kernel SVM, SVM, K-Nearest Neighbors (K-NN), Random Forest Regression, and Decision Tree Regression. Each model undergoes thorough testing and validation to assess its accuracy and performance.
+By comparing the results of these models, we aim to pinpoint the most effective approach for predicting crime rates. Such insights can inform law enforcement agencies and policymakers in devising proactive strategies for crime prevention and intervention. Ultimately, our project contributes to advancing predictive analytics in criminology, providing valuable tools for addressing societal challenges related to crime and security.
